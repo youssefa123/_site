@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-11-20T18:51:11-05:00</updated><id>/feed.xml</id><title type="html">Youssef’s Site</title><author><name>Youssef A</name><email>Youssef.abdelhady1@marist.edu</email></author><entry><title type="html">Lessons</title><link href="/posts/jekyll-markdown/" rel="alternate" type="text/html" title="Lessons" /><published>2022-01-04T00:00:00-05:00</published><updated>2022-01-04T00:00:00-05:00</updated><id>/posts/jekyll-markdown</id><content type="html" xml:base="/posts/jekyll-markdown/"><![CDATA[<p>####</p>
+
+<p><img src="https://media.giphy.com/media/GG4kiTuPtezNKHBXZZ/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;" /></p>
+
+<h1 id="lesson-1">Lesson 1</h1>
+
+<p>In the first lesson of System Design class, there was an emphasis on Git, GitHub, along with HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important ccctool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function.</p>
+
+<p><img src="https://media.giphy.com/media/jc71WrpPvmgSmbxb5D/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;" /></p>
+
+<h3 id="lesson-2">Lesson 2</h3>
+<p>Lesson 2, was an add on to the first lesson. But with an emphasis on collaboration with others with Git and Github, and how we can utlize it when working with a team or collaboraters(🧑‍🤝‍🧑). There’s many approaches to working with others through Git, such as Truck Based Development, Feature Branches, and Git Flow. The main takeaway that confused me was how a group of people can work on code together, and this lesson really solved that question for me. They do it through the “Branch”, you can create new branches to work on the code until your ready to merge the final code together.</p>
+
+<h3 id="lesson-3">Lesson 3</h3>
+
+<blockquote>
+  <p>Frameworks
+Lesson 3 was all about Frameworks. Frameworks is essantially prewritten code a user can use to edit and change around, like this project right here. This is a quick way of building out a website. There’s a term called batteries(🔋) included which means there can be little room for customizing becuase the prototype takes care of the difficult things for you. This can be looked as a disandvatages. The main takeaway I took from this that Frameworks can help many people further their knowledge of HTML, and business making websites in half the time. Frameworks are just a template that you can edit and customize to your liking.</p>
+</blockquote>]]></content><author><name>Youssef A</name><email>Youssef.abdelhady1@marist.edu</email></author><category term="jekyll" /><summary type="html"><![CDATA[#### Lesson 1 In the first lesson of System Design class, there was an emphasis on Git, GitHub, along with HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important ccctool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function. Lesson 2 Lesson 2, was an add on to the first lesson. But with an emphasis on collaboration with others with Git and Github, and how we can utlize it when working with a team or collaboraters(🧑‍🤝‍🧑). There’s many approaches to working with others through Git, such as Truck Based Development, Feature Branches, and Git Flow. The main takeaway that confused me was how a group of people can work on code together, and this lesson really solved that question for me. They do it through the “Branch”, you can create new branches to work on the code until your ready to merge the final code together. Lesson 3 Frameworks Lesson 3 was all about Frameworks. Frameworks is essantially prewritten code a user can use to edit and change around, like this project right here. This is a quick way of building out a website. There’s a term called batteries(🔋) included which means there can be little room for customizing becuase the prototype takes care of the difficult things for you. This can be looked as a disandvatages. The main takeaway I took from this that Frameworks can help many people further their knowledge of HTML, and business making websites in half the time. Frameworks are just a template that you can edit and customize to your liking.]]></summary></entry><entry><title type="html">Resume</title><link href="/posts/the-purpose-of-education/" rel="alternate" type="text/html" title="Resume" /><published>0199-12-23T10:18:00-05:00</published><updated>0199-12-23T10:18:00-05:00</updated><id>/posts/the-purpose-of-education</id><content type="html" xml:base="/posts/the-purpose-of-education/"><![CDATA[<h3 id="introduction">Introduction</h3>
+<p>Current Marist College student enrolled in the computer science program. Seeking an internship or research opportunity that will allow me to utilize my problem solving skills and attention to detail to further develop my abilities in the field of computer science.</p>
+<hr />
+
+<h3 id="experience">EXPERIENCE</h3>
+
+<p>IT Help Desk - <strong>Cold Spring Hotel</strong> <span style="float: right; ">June 2022-September 2022</span><br />
+▪ Delivered IT support to a high six-figure earning business with remote and on job service.</p>
+
+<p>▪ Conducted troubleshooting to resolve IT related problems for thousands of customers.</p>
+
+<p>▪ Repaired Network/AC issues with 24/7 remote support to avoid potential loss of revenue.</p>
+
+<p>▪ Responsible for booking customers and ensuring their data is safe and secure through remote services.</p>
+
+<p>▪ Provided clients with information on upgrade deals and troubleshooting related problems to ensure customer satisfaction.</p>
+
+<p>Cashier - <strong>Taco Bell</strong> <span style="float: right; ">August 2019-June 2022</span></p>
+
+<p>▪ Responsible for accurately taking customer’s orders.</p>
+
+<p>▪ Maintained high standards of customer service during high-volume,
+fast-paced operations.
+Maintaining and guiding, ensuring success and the wellbeing of the overall drive thru department.</p>
+
+<p>▪ Monitor orders to ensure quick, efficient service in a time limit process.</p>
+
+<hr />
+
+<h3 id="education">EDUCATION</h3>
+<p><b> Marist College,
+<b>
+<em>Poughkeepsie, NY</em></b></b></p>
+<ul>
+  <li>Bachelor of Science degree expected May 2024</li>
+  <li>Major: Computer Science</li>
+  <li>Honors: Dean’s List, Deans’ Circle</li>
+  <li>GPA: 3.4 / 4.0</li>
+</ul>
+
+<p><b> Roy C Ketcham,
+<b>
+<em>Wappingers Falls, NY</em></b></b></p>
+<ul>
+  <li>High School Diploma</li>
+  <li>Honors</li>
+  <li>GPA: 3.7 / 4.0</li>
+</ul>
+<hr />
+
+<h3 id="projects">PROJECTS</h3>
+<p><strong>Social Media Website</strong>  <span style="float: right; "></span><br />
+<i> Developed a Social Media Website that allows users to create an account and post. The website is a fully functional website that furthered my knowledge in web development. This project helped understand the main elements of how most social media websites function. To create this website I used html, css, and client and server side javascript, and a database using postgres. Along with this I learned Source code management through git and github.</i></p>
+
+<hr />
+
+<h3 id="technical-skills">Technical Skills</h3>
+<p><strong>Programming Knowledge</strong> <span style="float: right; "></span><br />
+▪ Strong in Python, HTML, JavaScript, and CSS, familiar with Java.</p>
+
+<p>▪ Experience working with Node.js, postgreSQL, MySQL.</p>
+
+<p><strong>Development Practices</strong> <span style="float: right; "></span></p>
+
+<p>▪ Source Code Management: Git and Github<br />
+▪ Relational database design through Entity-Relationship Diagramming. 
+▪ Development with rest API’s</p>
+
+<h3 id="gengeral-skills">Gengeral Skills</h3>
+
+<ul>
+  <li>Team leadership</li>
+  <li>Great at maintaining a clean and safe work environment.</li>
+  <li>Can work under heavy stress environments.</li>
+  <li>Communication skills/People Skills</li>
+  <li>Problem-solving abilities.</li>
+  <li>Self-Motivation</li>
+</ul>]]></content><author><name>Youssef A</name><email>Youssef.abdelhady1@marist.edu</email></author><category term="fiction" /><category term="jekyll" /><summary type="html"><![CDATA[Introduction Current Marist College student enrolled in the computer science program. Seeking an internship or research opportunity that will allow me to utilize my problem solving skills and attention to detail to further develop my abilities in the field of computer science. EXPERIENCE IT Help Desk - Cold Spring Hotel June 2022-September 2022 ▪ Delivered IT support to a high six-figure earning business with remote and on job service. ▪ Conducted troubleshooting to resolve IT related problems for thousands of customers. ▪ Repaired Network/AC issues with 24/7 remote support to avoid potential loss of revenue. ▪ Responsible for booking customers and ensuring their data is safe and secure through remote services. ▪ Provided clients with information on upgrade deals and troubleshooting related problems to ensure customer satisfaction. Cashier - Taco Bell August 2019-June 2022 ▪ Responsible for accurately taking customer’s orders. ▪ Maintained high standards of customer service during high-volume, fast-paced operations. Maintaining and guiding, ensuring success and the wellbeing of the overall drive thru department. ▪ Monitor orders to ensure quick, efficient service in a time limit process. EDUCATION Marist College, Poughkeepsie, NY Bachelor of Science degree expected May 2024 Major: Computer Science Honors: Dean’s List, Deans’ Circle GPA: 3.4 / 4.0 Roy C Ketcham, Wappingers Falls, NY High School Diploma Honors GPA: 3.7 / 4.0 PROJECTS Social Media Website Developed a Social Media Website that allows users to create an account and post. The website is a fully functional website that furthered my knowledge in web development. This project helped understand the main elements of how most social media websites function. To create this website I used html, css, and client and server side javascript, and a database using postgres. Along with this I learned Source code management through git and github. Technical Skills Programming Knowledge ▪ Strong in Python, HTML, JavaScript, and CSS, familiar with Java. ▪ Experience working with Node.js, postgreSQL, MySQL. Development Practices ▪ Source Code Management: Git and Github ▪ Relational database design through Entity-Relationship Diagramming. ▪ Development with rest API’s Gengeral Skills Team leadership Great at maintaining a clean and safe work environment. Can work under heavy stress environments. Communication skills/People Skills Problem-solving abilities. Self-Motivation]]></summary></entry></feed>
